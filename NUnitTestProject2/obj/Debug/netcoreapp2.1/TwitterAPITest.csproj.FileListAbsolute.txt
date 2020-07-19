@@ -1,0 +1,15 @@
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\TwitterAPITest.deps.json
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\TwitterAPITest.runtimeconfig.json
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\TwitterAPITest.runtimeconfig.dev.json
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\TwitterAPITest.dll
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\bin\Debug\netcoreapp2.1\TwitterAPITest.pdb
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\obj\Debug\netcoreapp2.1\TwitterAPITest.csprojAssemblyReference.cache
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\obj\Debug\netcoreapp2.1\TwitterAPITest.csproj.CoreCompileInputs.cache
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\obj\Debug\netcoreapp2.1\TwitterAPITest.AssemblyInfoInputs.cache
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\obj\Debug\netcoreapp2.1\TwitterAPITest.AssemblyInfo.cs
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\obj\Debug\netcoreapp2.1\TwitterAPITest.dll
+C:\Users\Raghul.Ravichandran\source\repos\NUnitTestProject2\NUnitTestProject2\obj\Debug\netcoreapp2.1\TwitterAPITest.pdb
